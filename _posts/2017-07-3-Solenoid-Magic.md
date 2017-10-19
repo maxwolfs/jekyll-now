@@ -3,6 +3,8 @@ layout: post
 title: Lox / Solenoid Magic
 ---
 
+![alt text](/images/solenoidcomparison.jpg "Logo Title Text 1")
+
 With the code being able to set a date, show the remaining time and calling the final function which executes the unlocking
 mechanism it's finally time to decide on the mechanism itself. Fortunately I already have a tested Solenoid Driver Circuit from
 the Sound course I'm taking.

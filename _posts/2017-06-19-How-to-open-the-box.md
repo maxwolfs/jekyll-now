@@ -3,6 +3,8 @@ layout: post
 title: Lox / How to Open?
 ---
 
+![alt text](/images/pushelement.jpg "Logo Title Text 1")
+
 A big question is coming up again and again. How will the opening mechanism actually work?
 There were a few suggestions that it could be opened with a top handle or carved out holes.
 But I want to stick with the clean & flat design.
