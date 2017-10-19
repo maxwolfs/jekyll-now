@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lox- First wooden model
+title: Lox / First wooden model
 ---
 
 # Lox: First wooden model

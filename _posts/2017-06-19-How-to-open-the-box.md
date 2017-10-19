@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lox- How to Open?
+title: Lox / How to Open?
 ---
 
 # Lox: How to Open?
