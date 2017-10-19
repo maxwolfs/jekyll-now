@@ -11,4 +11,6 @@ Video:
 
 [![IMAGE ALT TEXT HERE](/images/exhibition4.jpg)](https://vimeo.com/238361982)
 
+![alt text](/images/exhibition2.jpg "Logo Title Text 1")
+
 ![alt text](/images/exhibition.jpg "Logo Title Text 1")
