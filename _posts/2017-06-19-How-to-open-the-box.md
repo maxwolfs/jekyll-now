@@ -21,5 +21,3 @@ I did a few trips to office stores but I there weren't suitable ones.
 
 Then I finally found a rotary push encoder from a test package that came with the
 EC11 encoders. Perfect! Enough force, decent spring range and small form factor.
-
-![alt text](/images/pushelement.jpg "Logo Title Text 1")

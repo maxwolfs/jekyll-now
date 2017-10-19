@@ -20,7 +20,3 @@ But with the decision of Solenoids there is the question which ones to take that
 Solenoids are hard to get and aren't that cheap. So I basically bought almost every solenoid on Ebay and Amazon to try them.
 
 ![alt text](/images/solenoidtest.jpg "Logo Title Text 1")
-
-Sweet little Solenoid Family:
-
-![alt text](/images/solenoidcomparison.jpg "Logo Title Text 1")
