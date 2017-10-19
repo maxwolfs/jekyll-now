@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lox: Preperations for Model 2
+title: Lox- Preperations for Model 2
 ---
 
 # Lox: Preperations for Model 2
