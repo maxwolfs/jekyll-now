@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lox / Exhibition Documentation
+title: Lox / Exhibition Version
 ---
 
 ![alt text](/images/exhibition2.jpg "Logo Title Text 1")
