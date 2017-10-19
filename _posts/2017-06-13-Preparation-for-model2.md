@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lox / Preperations for Model 2
+title: Lox / Preparations for Model 2
 ---
 
 With now having almost all parts of the circuit and a running Timer I'm taking measurements for next model.
