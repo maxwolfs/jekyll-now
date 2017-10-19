@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am Max and currently studying the Digital Media Master Program here:
+http://digitalmedia-bremen.de/en/category/news/
 
 ### More Information
 
@@ -12,4 +13,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mwolfs@hfk-bremen.de](mailto:mwolfs@hfk-bremen.de)
