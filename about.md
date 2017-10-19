@@ -4,13 +4,12 @@ title: About
 permalink: /about/
 ---
 
-I am Max and currently studying the Digital Media Master Program here:
-http://digitalmedia-bremen.de/en/category/news/
+I am Max and currently studying the [Digital Media Master Program](http://digitalmedia-bremen.de/)
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I set up this blog to force myself to document my projects.
 
 ### Contact me
 
-[mwolfs@hfk-bremen.de](mailto:mwolfs@hfk-bremen.de)
+[mail](mailto:mwolfs@hfk-bremen.de)
