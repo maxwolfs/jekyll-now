@@ -7,7 +7,7 @@ title: Lox / Exhibition Version
 
 Exhibtion was nice, but it's still a long way to go.
 
-![alt text](/images/exhibition3.jpg "Logo Title Text 1")
+![alt text](/images/exhibition.jpg "Logo Title Text 1")
 
 Video:
 
